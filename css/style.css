@@ -1,0 +1,34 @@
+
+.white{
+	color: #fff;
+}
+.header-bg{
+	background-color: #3a5795;
+	background-image: url(data:img/bg.png;);
+	background-repeat: repeat-x;
+	border-bottom-color: rgb(19, 55, 131);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom: 1px solid #133783;
+    box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .52);
+    min-width: 981px;
+}
+.search_fb {
+   	margin-left: 30px;
+    max-width: 400px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: auto;
+}
+.profile img{
+	border: 0;
+    border-radius: 0;
+    height: 19px;
+    margin: 4px 0 0;
+    width: 19px;
+}
+.header_fb li{
+	list-style: none;
+	display: inline;
+}
